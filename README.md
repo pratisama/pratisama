@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there!!! 😊👋
 
-<!--
-**pratisama/pratisama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pratisama, an aspiring software developer with additional interests in Data Science and Artificial Intelligence, from India.
+I enjoy exploring the world of tech, learning how things work, how systems come together and building as I go.
+<hr>
+<h3> What I do: </h3>
 
-Here are some ideas to get you started:
+- I work mostly with Python and many of its libraries and modules.
+- I also use C++ for trying out competitive programming. 
+- I know the basics of Java as well.
+- I have dealt with HTML, CSS, Tailwind, and JS.
+<hr>
+<h3> What I'm learning: </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I'm currently learning advanced Python stuff, including its various libraries for Data Science.
+- I'm figuring out my way around databases(SQL).
+- I'm also trying to learn advanced C++ concepts that I need for competitive programming and systems and software architecture.
+- I'm planning to learn advanced JS, React, and TS, as well as some more backend and API concepts in the future.
+<hr>
+
+I'm looking for help with a direction that I'm still not sure to take in this vast world of tech and would love if someone could help me with it.
+<hr>
+<h3> A Bit About Me: </h3>
+
+- A teenage student in High school. 
+- 📑: I love to read fiction of all genres.
+- 🍵: Can't decide b/w tea and coffee. Love Both.
+- Into light Gaming and Anime.
+- 😋: Into Culinary: Looking fwd for learning to cook.
+<hr>
+
+How to reach me: I have linked my social media as well as Email under my profile pic. Feel free to reach me 😊. 
+<hr>
